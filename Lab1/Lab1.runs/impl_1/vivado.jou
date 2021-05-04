@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 23 14:13:18 2021
+# Process ID: 5728
+# Current directory: C:/Users/micha/Desktop/CPE487/CPE487/Lab1/Lab1.runs/impl_1
+# Command line: vivado.exe -log leddec.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source leddec.tcl -notrace
+# Log file: C:/Users/micha/Desktop/CPE487/CPE487/Lab1/Lab1.runs/impl_1/leddec.vdi
+# Journal file: C:/Users/micha/Desktop/CPE487/CPE487/Lab1/Lab1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source leddec.tcl -notrace
